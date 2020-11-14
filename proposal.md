@@ -2,7 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Python on Site Integration
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
@@ -61,3 +61,5 @@ The scripts themselves should be based on what we have done previously (worse ca
 
 Design-wise, I should look at some modern websites/Wordpress/Weebly etc sites and see what they do. Admittedly, maybe more early 2010's design would be better as minimalism doesn't really interest me.
 
+
+Overall, I'm not expecting miracles to happen for a beginner coder and web designer.
