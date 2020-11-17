@@ -1,0 +1,22 @@
+Ideas for Python Scripts:
+Prereqs:
+  * Needs to be doable with my skill level
+  * If something web-based, need to make sure it doesn't violate any laws or such (GDPR, etc)
+  * Must have interactable elements - either through HTML or this web python
+
+1. Some sort of turtle drawer through on click functionality
+2. Relatively simple script to 
+
+
+
+Possible Ways for Python on Web:
+https://yasoob.me/2019/05/22/running-python-in-the-browser/
+ - Skulpt is looking pretty neat at the moment
+ - PyPy seems interesting as well but page size is larger, though don't know if I need to care about such a usecase.
+ - Brython has an embeddable Python console 
+ 
+
+What's Necessary to Proceed?
+  - Well, need to brush up on HTML, JS, and DOM elements in order to display elements to such webpages.
+  - Unfortunately, it seems as though Github is more static but I need to look at just how these web-python implementations work
+  - 
